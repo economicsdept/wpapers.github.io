@@ -4,8 +4,8 @@ Provider-Name: Bar-Ilan University, Department of Economics
 Provider-Homepage: https://econ.biu.ac.il/en
 Provider-Institution: RePEc:edi:debaril
 Maintainer-Name: Department of Economics
-Maintainer-Name: Igal Milchtaich
 Maintainer-Email: economics.dept@biu.ac.il
-Maintainer-Email: igal.milchtaich@biu.ac.il
 Type: ReDIF-Paper
 Handle: RePEc:biu:wpaper
+
+
