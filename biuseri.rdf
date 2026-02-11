@@ -1,4 +1,4 @@
-﻿Template-type: ReDIF-Series 1.0
+﻿Template-Type: ReDIF-Series 1.0
 Name: Working Papers
 Provider-Name: Bar-Ilan University, Department of Economics
 Provider-Homepage: https://econ.biu.ac.il/en
@@ -7,5 +7,6 @@ Maintainer-Name: Department of Economics
 Maintainer-Email: economics.dept@biu.ac.il
 Type: ReDIF-Paper
 Handle: RePEc:biu:wpaper
+
 
 
