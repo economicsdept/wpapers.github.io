@@ -8,11 +8,12 @@ Title:Quantum Advantage in Bayesian Games
 Abstract:Quantum advantage in Bayesian games, or games with incomplete information, refers to the larger set of correlated equilibrium outcomes that can be obtained by using quantum mechanisms rather than classical ones. Earlier examples of such advantage go under the title of quantum pseudo-telepathy. By using measurements of entangled particles, the players in the Mermin–Peres magic square game and similar games can obtain a common payoff that is higher than that afforded by any classical mechanism. However, these common-interest games are very special. In general games, where payoffs differ across players and player types, the implementation of specific correlated equilibrium outcomes may require limiting the information that different player types receive though the signals or messages they receive from a correlation device or mechanism. Because of the inherently destructive nature of measurements in quantum mechanics, it is well suited for this task. In a quantum correlated equilibrium, players choose what part of the information “encoded” in the quantum state to read, and choosing the part meant for their actual type is required to be incentive compatible. This requirement makes the choice of measurement analogous to the choice of report to the mediator in a communication equilibrium, and the measurement value is analogous to the massage sent back from the mediator. A choice of action follows.
 This paper systematically explores the advantage quantum mechanisms possess over comparable classical mechanisms in correlated and communication equilibria. It identifies the specific properties of quantum mechanisms responsible for these advantages. It then presents a classification of the equilibrium outcomes (both type-action distributions and equilibrium payoffs) in correlated and communication equilibria according to the kind of (classical or quantum) mechanism employed.
 Length:	28 pages
-Creation-Date:  2023-08
-File-URL:https://econ.biu.ac.il/sites/econ/files/working-papers/2023-05.pdf
+Creation-Date: 2023-08
+File-URL: https://econ.biu.ac.il/sites/econ/files/working-papers/2023-05.pdf
 File-Format: Application/pdf
 File-Function: Working paper
 Number: 2023-05
 Classification-JEL:
 Keywords: 
+
 Handle: RePEc:biu:wpaper:2023-05
