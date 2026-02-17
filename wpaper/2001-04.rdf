@@ -11,13 +11,14 @@ Author-Workplace-Name: University of Paris-I Sorbonne and ESSEC
 Title: International Asset Allocation: A New Perspective 
 Abstract: We consider an international economy where purchasing power parity (PPP) is violated and financial asset returns and exchange rates follow, in real terms, general diffusion processes driven by K state variables. A country-specific representative individual trades on available assets to maximize the expected utility of her final consumption. Her optimal strategy is shown to contain, in addition to the usual speculative component, only two hedging components, however large is K. The first one is associated with domestic interest rate risk and the second one with the risk brought about by the co-movements of the interest rates and the market prices of risk. The implementation of the optimal strategy is thus much easier, as it involves estimating the characteristics of the yield curve and the market prices of risk only rather than those of numerous (a priori unknown) state variables. Thus, as to the necessity for rational investors to account for predictability in their optimal portfolio strategy, our results make it much easier than the traditional decomposition à la Merton. Since one hedging term depends on interest rate differentials across countries and encompasses hedging against PPP deviations, our decomposition turns to be also an elegant way to achieve optimal (indirect) currency risk hedging as opposed to usual ad hoc route to achieve such a hedging component followed by previous studies. Therefore, our decomposition gives new insights as to the pricing of foreign exchange risk at equilibrium.
 Creation-Date: 2001-02
-File-URL: https://www2.biu.ac.il/soc/ec/wp/4-01/4-01.pdf
+File-URL: https://econ.biu.ac.il/sites/econ/files/working-papers/jfqa.pdf
 File-Format: Application/pdf
 File-Function: Working paper
 Number:2001-04
 Classification-JEL: G11, G13
 Keywords: International Portfolio Theory; Interest rate risk; Currency risk premium; Market price of risk; Asset return predictability.
 Handle: RePEc:biu:wpaper:2001-04
+
 
 
 
