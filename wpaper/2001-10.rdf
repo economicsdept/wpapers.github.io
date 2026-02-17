@@ -11,13 +11,14 @@ Author-Workplace-Name: University of Paris-I Sorbonne and ESSEC
 Title: Dynamic Asset Pricing With Non-Redundant Forwards
 Abstract: We consider an incomplete but frictionless financial market in which non-redundant forward contracts contribute to span the uncertainty present in the economy. When such forward contracts are available for trade, some standard results of portfolio and dynamic asset pricing theory must be amended. When the investment opportunity set is driven by K state variables, a (K+4)-mutual fund separation theorem is obtained in lieu of Merton’s classic (K+2)-fund separation. The two additional funds are fully characterized. One fund is a portfolio containing forward contracts only, and the other fund is a portfolio of cash assets and forward contracts that hedges the interest rate risk brought about by the optimal portfolio strategy itself. The latter risk is due to the fact that, when a forward contract is involved, incurred profits or losses that accrue to the investor’s wealth at each instant are locked-in in the forward position up to the contract maturity. Thus discounting these gains or losses back at the current date gives rise to an interest rate risk. A second important result is that the mean-variance efficiency of the market portfolio of cash assets is neither a necessary nor a sufficient condition for the linear relationship between expected return and beta to hold. Finally, the pricing equation for a forward contract is shown to contain an extra term relative to that for a cash asset. We name this term a strategy risk premium. It compensates the investor for the (systematic) risk that stems from his very portfolio strategy< when the latter involves a non-redundant forward contract.
 Creation-Date: 2001-05
-File-URL: https://www2.biu.ac.il/soc/ec/wp/10-01/10-01.pdf
+File-URL: https://econ.biu.ac.il/sites/econ/files/working-papers/fpe.pdf
 File-Format: Application/pdf
 File-Function: Working paper
-Number:2001-10
+Number: 2001-10
 Classification-JEL: D52, E52, G11, G12.
 Keywords:
 Handle: RePEc:biu:wpaper:2001-10
+
 
 
 
