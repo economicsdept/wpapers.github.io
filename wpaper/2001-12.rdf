@@ -7,13 +7,14 @@ Author-Workplace-Name: Department of Economics, Bar Ilan University
 Title: Network Topology and the Efficiency of Equilibrium 
 Abstract: Different kinds of networks, such as transportation, communication, computer, and supply networks, are susceptible to similar kinds of inefficiencies. These arise when congestion externalities make each user-s cost depend on the other users, choices of routes. If each user chooses the least expensive (e.g., fastest) route from the users" common point of origin to their common destination, the result may be inefficient in the sense that there is an alternative assignment of routes to users that reduces the costs of all users. However, this may happen only for certain kinds of network topologies. This paper gives several alternative characterizations of networks in which inefficiencies may occur. In particular, a necessary and sufficient condition for inefficiency is that one of several specific, simple networks is embedded in the network.
 Creation-Date: 2001-07
-File-URL: https://www2.biu.ac.il/soc/ec/wp/12-01/12-01.pdf
+File-URL: https://econ.biu.ac.il/sites/econ/files/working-papers/network.pdf
 File-Format: Application/pdf
 File-Function: Working paper
 Number:2001-12
 Classification-JEL: 
 Keywords: Congestion, network topology, Braess' paradox, transportation networks, Wardrop equilibrium.
 Handle: RePEc:biu:wpaper:2001-12
+
 
 
 
