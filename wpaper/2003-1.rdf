@@ -7,12 +7,12 @@ Author-Email: milchtai@mail.biu.ac.il
 Title: Topological Conditions for Uniqueness of Equilibrium in Networks
 Abstract: Equilibrium flow in a physical network with a large number of users (e.g., transportation, communication, and computer networks) may not be unique if the costs of the network elements are not the same for all uses. Such differences among users may arise if they are not equally affected by congestion or have different intrinsic preferences. Whether or not, for all assignments of cost functions, each user’s equilibrium cost is the same in all Nash equilibria can be determined from the network topology. Specifically, this paper shows that in a two-terminal network, the equilibrium costs are always unique if and only if the network is one of several simple networks or consists of several such networks connected in series. The complementary class of all two-terminal networks with multiple equilibrium costs for some assignment of (user-specific) cost functions is similarly characterized by an embedded network of a particular simple type.  
 Creation-Date: 2003-03
-File-URL: https://www2.biu.ac.il/soc/ec/wp/1-03/1-03.pdf
+File-URL: https://econ.biu.ac.il/sites/econ/files/working-papers/1-03.pdf
 File-Format: Application/pdf
 File-Function: Working paper
-
 Number: 2003-01
 Classification-JEL: C72, R41.
 Keywords: Congestion, externalities, equilibrium flow, network topology, uniqueness of equilibrium.
 Handle: RePEc:biu:wpaper:2003-01
+
 
