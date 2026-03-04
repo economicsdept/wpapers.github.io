@@ -15,12 +15,12 @@ Author-Workplace-Name: Emory University
 Title: Growth and Convergence across the US: Evidence from County-Level Data
 Abstract: We use U.S. county-level data consisting of 3,058 observations, to study growth determination and measure the speed of income convergence. County-level data are particularly valuable for studying convergence because they allow us to study a sample with substantial homogeneity and exceptional mobility of capital, labor and technology without sacrificing the benefits of a large number of cross-sectional units. Our data set allows us to include nearly 40 different conditioning variables to study their effect on the counties’ balanced growth paths. We report estimates using a 2SLS instrumental variables method, which yields consistent estimates, as well as estimates from standard OLS.  In order to explore possible heterogeneity in the conditional convergence rates, we report the estimates for the entire data set as well as for subsets including metro counties, non-metro counties, and five regional groupings. Our findings include: (i) while OLS yields convergence rates around 2 percent, the 2SLS method yields rates between 6 and 8 percent; (ii) the estimated convergence rates are not constant across the U.S., for example, the counties in the Southern states converge at a rate that is more than two and half times faster than the counties located in the New England states; (iii) the extent of the public sector at all levels (federal, state and local) negatively affects growth and there is no evidence of the public sector becoming more productive at more decentralized levels; (iv) the relationship between a population’s educational attainment and economic growth is nonlinear depending on the years of education considered; and (v) large presences of both finance, insurance and real estate industry and entertainment industry are positively correlated with growth while the percent of a county’s population employed in the education industry is negatively correlated with economic growth.  
 Creation-Date:  2003-03
-File-URL: https://www2.biu.ac.il/soc/ec/wp/3-03/3-03.pdf
+File-URL: https://econ.biu.ac.il/sites/econ/files/working-papers/3-03.pdf
 File-Format: Application/pdf
 File-Function: Working paper
-
 Number: 2003-03
 Classification-JEL: O40, O11, O18, R11.
 Keywords: Economic Growth, Conditional and Unconditional Income Convergence, 2SLS-IV Consistent Estimator, Heterogeneity in Convergence Rates, County Data.
 Handle: RePEc:biu:wpaper:2003-03
+
 
