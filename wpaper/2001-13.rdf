@@ -11,13 +11,14 @@ Author-Workplace-Name: University of Paris-I Sorbonne and ESSEC
 Title: General Equilibrium Pricing of Trading Strategy Risk
 Abstract: When forward contracts are involved in dynamic portfolio strategies, incurred profits or losses that accrue at each instant are locked-in in the forward position up to the contract maturities. The discounted value of these gains or losses at each date t is part of investors’ wealth. This discounting thus gives rise to an interest rate risk. Therefore, investors are bound to have a constrained bond position and, being unable to diversify away the corresponding systematic risk, they must be compensated for it. We derive the general equilibrium of a dynamic financial market in which the investors' opportunity set includes non-redundant forward contracts. We show that Breeden’s (1979) intertemporal consumption-based CAPM equation for forward contracts contains an extra term relative to that for cash assets. We name this term a strategy risk premium. It compensates investors for the (systematic) risk that stems from their very portfolio strategies when the latter involve non-redundant forward contracts. We also show that Merton’s (1973) multi-beta intertemporal CAPM must be amended for forward contracts to exhibit adjusted risk premia for the market portfolio and all relevant state variables, as opposed to the usual (non-adjusted) risk premia for cash assets. While the traditional intertemporal CAPMs shows that only the systematic risks related to asset return fluctuations are priced, we finally show that systematic trading strategy risk is also priced. Finally, none of our results depends on the usual cash-and-carry relationship, which in general will not hold.
 Creation-Date: 2001-07
-File-URL: https://www2.biu.ac.il/soc/ec/wp/13-01/13-01.pdf
+File-URL: https://econ.biu.ac.il/sites/econ/files/working-papers/fge9.pdf
 File-Format: Application/pdf
 File-Function: Working paper
 Number:2001-13
 Classification-JEL: D52, E52, G11, G12.
 Keywords:
 Handle: RePEc:biu:wpaper:2001-13
+
 
 
 
