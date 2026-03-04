@@ -12,12 +12,13 @@ Author-Workplace-Name: Department of Economics, Bar Ilan University
 Title: Which Voting Rules Elicit Informative Voting?
 Abstract: When a group of people with identical preferences but different abilities in identifying the best alternative (e.g., a jury) takes a vote to decide between two alternatives, the question of strategic voting arises. That is, depending on the voting rule used to determine the collective decision, it may or may not be rational for group members to always vote for the alternative believe to be their private information indicates is better (i.e., vote informatively). In fact, we show in this paper that, if a qualified majority rule is used, then informative voting is rational only if the rule is optimal in the class of all qualified majority rules, in the sense the sense that, when everybody votes informatively, none of the other rules in this class would yield a higher expected utility. However, this necessary condition is not sufficient for informative voting to be rational. Specifically, even if the qualified majority rule used is optimal in the above sense, some of those who are least competent in correctly identifying the better alternative may increase the expected utility by sometimes voting for the alternative they believe to be inferior. A sufficient (but not necessary) condition for informative, non-strategic, voting to be rational is that the voting rule is optimal among the class of all qualified weighted majority rules, i.e., rules assigning (potentially) unequal weights to different individuals, this cannot happen: informative, non-strategic voting is rational.
 Creation-Date: 2002-05
-File-URL: https://www2.biu.ac.il/soc/ec/wp/13-02/13-02.pdf
+File-URL: https://econ.biu.ac.il/sites/econ/files/working-papers/13-02.pdf
 File-Format: Application/pdf
 File-Function: Working paper
 Number: 2002-13
 Classification-JEL: 
 Keywords:
 Handle: RePEc:biu:wpaper:2002-13
+
 
 
