@@ -7,12 +7,10 @@ Author-Workplace-Name: Department of Economics, Bar-Ilan University
 Title: Implementability of Correlated and Communication Equilibrium Outcomes in Incomplete Information Games
 Abstract: In a correlated equilibrium, the players’ choice of actions is affected by random, correlated messages that they receive from an outside source, or mechanism. This allows for more equilibrium outcomes than without such messages (pure-strategy equilibrium) or with statistically independent ones (mixed-strategy equilibrium). In an incomplete information game, the messages may also convey information about the types of the other players, either because they reflect extraneous events that affect the types (correlated equilibrium) or because the players themselves report their types to the mechanism (communication equilibrium). Thus, mechanisms can be classified by the connections between the messages that the players receive and their own and the other players’ types, the dependence or independence of the messages, and whether randomness is involved. These properties may affect the achievable equilibrium outcomes, i.e., the payoffs and joint distributions of type and action profiles. Whereas for complete information games there are only three classes of equilibrium outcomes, with incomplete information the number is 14–15 for correlated equilibria and 15–17 for communication equilibria. Each class is characterized by the properties of the mechanisms that implement its members. The majority of these classes have not been described before.
 Creation-Date:  2009-11
-File-URL: https://www2.biu.ac.il/soc/ec/wp/2009-27.pdf
+File-URL: https://econ.biu.ac.il/sites/econ/files/working-papers/2009-27_0.pdf
 File-Format: Application/pdf
 File-Function: Working paper
-
 Number: 2009-27
 Classification-JEL: C72
 Keywords: Correlated equilibrium, Communication equilibrium, Incomplete information, Bayesian games, Mechanism, Correlation device, Implementation
 Handle: RePEc:biu:wpaper:2009-27
-
