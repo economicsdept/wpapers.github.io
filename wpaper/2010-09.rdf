@@ -7,7 +7,7 @@ Author-Workplace-Name: Department of Economics, Bar Ilan University
 Title: Network Topology and Equilibrium Existence in Weighted Network Congestion Games 
 Abstract: Every finite noncooperative game can be presented as a weighted network congestion game, and also as a network congestion game with player-specific costs. In the first presentation, different players may contribute differently to congestion, and in the second, they are differently (negatively) affected by it. This paper shows that the topology of the underlying (undirected two-terminal) network provides information about the existence of pure-strategy Nash equilibrium in the game. For some networks, but not for others, every corresponding game has at least one such equilibrium. For the weighted presentation, a complete characterization of the networks with this property is given. The necessary and sufficient condition is that the network has at most three routes that do traverse any edge in opposite directions, or it consists of several such networks connected in series. The corresponding problem for player-specific costs remains open.
 Creation-Date: 2010-05
-File-URL: https://www2.biu.ac.il/soc/ec/wp/2010-09.pdf
+File-URL: https://econ.biu.ac.il/sites/econ/files/working-papers/2010-09_0.pdf
 File-Format: Application/pdf
 File-Function: Working paper
 Number: 2010-09
