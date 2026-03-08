@@ -11,12 +11,10 @@ Author-Workplace-Name: Bar-Ilan University
 Title: Condorcet vs. Borda in Light of a Dual Majoritarian Approach 
 Abstract: Many voting rules and, in particular, the plurality rule and Condorcet-consistent voting rules satisfy the simple-majority decisiveness property. The problem implied by such decisiveness, namely, the universal disregard of the preferences of the minority, can be ameliorated by applying unbiased scoring rules such as the classical Borda rule, but such amelioration has a price; it implies erosion in the implementation of the widely accepted ‘majority principle’. Furthermore, the problems of majority decisiveness and of the erosion in the majority principle are not necessarily severe when one takes into account the likelihood of their occurrence. This paper focuses on the evaluation of the severity of the two problems, comparing simple-majoritarian voting rules that allow the decisiveness of the smallest majority larger than ½ and the classical Borda method of counts. Our analysis culminates in the derivation of the conditions that determine, in terms of the number of alternatives k, the number of voters n and the relative (subjective) weight assigned to the severity of the two problems, which of these rules is superior in light of the dual majoritarian approacht.
 Creation-Date:  2010-04
-File-URL: https://www2.biu.ac.il/soc/ec/wp/2010-07.pdf
+File-URL: https://econ.biu.ac.il/sites/econ/files/working-papers/2010-07.pdf
 File-Format: Application/pdf
 File-Function: Working paper
-
 Number: 2010-07
 Classification-JEL: 
 Keywords: Majority decisiveness, Condorcet criterion, erosion of majority principle, the Borda method of counts
 Handle: RePEc:biu:wpaper:2010-07
-
