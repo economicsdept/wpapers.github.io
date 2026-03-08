@@ -7,10 +7,8 @@ Author-Workplace-Name: Department of Economics, Bar Ilan University
 Title: The Prediction Market for the Australian Football League 
 Abstract: The purpose of this paper is to make a novel contribution to the literature on the prediction market for the Australian Football League, the major sports league in which Australian Rules Football is played. Taking advantage of a novel micro-level data set which includes detailed per-game player statistics, predictions are presented and tested out-of-sample for the simplest kind of bet: fixed odds win betting. It is shown that player-level statistics may be used to yield very modest profits net of transaction costs over a number of seasons, provided some more global variables are added to the model. A comparison of different specifications of the linear probability model (LPM) versus conditional logit (CLOGIT) regressions reveals that the LPM usually outperforms CLOGIT in terms of profitability. It is further shown that adding significant variables to a regression specification which is clearly superior in econometric terms may reduce the efficacy of the prediction and thus profits.
 Creation-Date: 2011-03
-File-URL: https://www2.biu.ac.il/soc/ec/wp/2011-15.pdf
+File-URL: https://econ.biu.ac.il/sites/econ/files/working-papers/2011-15.pdf
 File-Format: Application/pdf
 File-Function: Working paper
-
 Number: 2011-15 
 Handle: RePEc:biu:wpaper:2011-15
-
