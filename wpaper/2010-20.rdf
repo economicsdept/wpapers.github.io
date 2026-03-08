@@ -19,12 +19,10 @@ Author-Workplace-Name: Department of Economics,Bar-Ilan University
 Title: Beyond Condorcet: Optimal Aggregation Rules Using Voting Records   
 Abstract: In certain judgmental situations where a “correct” decision is presumed to exist, optimal decision making requires evaluation of the decision-maker's capabilities and the selection of the appropriate aggregation rule. The major and so far unresolved difficulty is the former necessity. This paper presents the optimal aggregation rule that simultaneously satisfies these two interdependent necessary requirements. In our setting, some record of the voters' past decisions is available, but the correct decisions are not known. We observe that any arbitrary evaluation of the decision-maker's capabilities as probabilities yields some optimal aggregation rule that, in turn, yields a maximum-likelihood estimation of decisional skills. Thus, a skill-evaluation equilibrium can be defined as an evaluation of decisional skills that yields itself as a maximum-likelihood estimation of decisional skills. We show that such equilibrium exists and offer a procedure for finding one. The obtained equilibrium is locally optimal and is shown empirically to generally be globally optimal in terms of the correctness of the resulting collective decisions. Interestingly, under minimally competent (almost symmetric) skill distributions that allow unskilled decision makers, the optimal rule considerably outperforms the common simple majority rule (SMR). Furthermore, a sufficient record of past decisions ensures that the collective probability of making a correct decision converges to 1, as opposed to accuracy of about 0.7 under SMR. Our proposed optimal voting procedure relaxes the fundamental (and sometimes unrealistic) assumptions in Condorcet celebrated theorem and its extensions, such as sufficiently high decision-making quality, skill homogeneity or existence of a sufficiently large group of decision makers.
 Creation-Date: 2010-12
-File-URL: https://www2.biu.ac.il/soc/ec/wp/2010-20.pdf
+File-URL: https://econ.biu.ac.il/sites/econ/files/working-papers/2010-20.pdf
 File-Format: Application/pdf
 File-Function: Working paper
 Number:2010-20
 Classification-JEL:
 Keywords:
 Handle: RePEc:biu:wpaper:2010-20
-
-
